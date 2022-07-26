@@ -1,0 +1,4 @@
+name: UBLobby
+version: '${project.version}'
+main: rama.ubl.UBLobby
+description: Simple lobby command for unbloque
